@@ -6,6 +6,7 @@
 
 <p align="center">
   Reconstruct MoonsecV3-obfuscated Lua back into readable, understandable source.
+  [this project isn't actually open source. Read LICENSE for details]
 </p>
 
 <p align="center">
